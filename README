@@ -1,0 +1,5 @@
+to start use: python3 fptrans.py <firmware_password>
+
+to get the security-password:
+
+sudo nvram -p
