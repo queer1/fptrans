@@ -2,6 +2,6 @@
 to get the security-password:
 sudo nvram -p</old>
 
-IMPORTANT: just execute the script and type in your admin password.
+just execute the script and type in your admin password.
 
-use python 3.x to get correct results
+IMPORTANT: use python 3.x to get correct results
