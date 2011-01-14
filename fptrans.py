@@ -15,12 +15,9 @@ def fp_con(spf):
 
          r = ""
 
-         try : 
-	         fp = spf
+         fp = spf
 	 
-         except :
-	            print ("USAGE: python3 fpconvert.py <firmware_pw>")
-	            exit()
+         
 
          list = fp.split("%") 
  
